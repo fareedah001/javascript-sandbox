@@ -28,3 +28,6 @@ console.groupEnd();
 // Add CSS to logs
 const styles = "padding: 10px; background-color: white; color: green";
 console.log("%cHello World", styles);
+
+// Added a comment
+console.log("Hello World"); // Output: Hello World
