@@ -51,3 +51,21 @@ function getRandom(arr) {
 }
 
 getRandom([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+
+//object params
+// function myDetails(user){
+//   return `my name is ${user.name}and my matric number is ${matricno}`;
+
+//   }
+//   const user = {
+//     name :"faridat",
+//     matricno : 'u18cps1005',
+// };
+// console.log(myDetails(user))
+
+//
+// function good(hobbies) {
+//   return `my hobbies are ${hobbies1} and i also love staying indoors and my address is ${address}`;
+// }
+// hobbies = [((hobbies1 = "dancin,acting and singing"), (address = "2/1"))];
+// console.log(good(hobbies));
